@@ -18,7 +18,7 @@ Steps to run the PARKING SPACE MANAGEMENT SYSTEM Project
 
     Admin Credential
         Username: admin
-        Password: Test@123
+        Password: test@123
     User Credential
         Username: asgk@gmail.com
         Password: gokul2002
